@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:preview": "next build preview",
     "start": "next start",
+    "start:preview": "next start preview",
     "lint": "next lint"
   },
   "dependencies": {
